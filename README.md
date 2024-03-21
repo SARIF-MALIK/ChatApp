@@ -1,6 +1,6 @@
-Chat Application using Socket.io, Express.js, and JavaScript
+<p align="center"> Chat Application using Socket.io, Express.js, and JavaScript </p>
 
-https://github.com/SARIF-MALIK/ChatApp/blob/main/proj.png?raw=true
+<img src="https://github.com/SARIF-MALIK/ChatApp/blob/main/proj.png?raw=true"/>
 
 Brief Description:
 The Chat Application is a real-time messaging platform built using Socket.io, Express.js, and JavaScript. It facilitates instant communication between users connected to the platform. Utilizing Socket.io enables bidirectional communication between the server and clients, ensuring seamless real-time updates of messages.
