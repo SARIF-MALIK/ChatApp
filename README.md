@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+Chat Application using Socket.io, Express.js, and JavaScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://github.com/SARIF-MALIK/ChatApp/blob/main/proj.png?raw=true
 
-## Available Scripts
+Brief Description:
+The Chat Application is a real-time messaging platform built using Socket.io, Express.js, and JavaScript. It facilitates instant communication between users connected to the platform. Utilizing Socket.io enables bidirectional communication between the server and clients, ensuring seamless real-time updates of messages.
 
-In the project directory, you can run:
 
 ### `npm start`
 
